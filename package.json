@@ -26,7 +26,6 @@
     "url": "https://github.com/chadxz/tragic.git"
   },
   "nyc": {
-    "extension": ".mjs",
     "temp-directory": "coverage/.nyc_output"
   },
   "devDependencies": {
